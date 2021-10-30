@@ -1,0 +1,3 @@
+INSERT INTO BLOG (content, likes) VALUES ( 'TEST_CONTENT',5);
+INSERT INTO BLOG (content, likes) VALUES ( 'TEST_CONTENT_2',0);
+
